@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PoushikMERN3-2/static/css/main.c668521c.css",
+    "main.js": "/PoushikMERN3-2/static/js/main.303535d1.js",
+    "static/js/787.cb3f2434.chunk.js": "/PoushikMERN3-2/static/js/787.cb3f2434.chunk.js",
+    "static/media/logo.svg": "/PoushikMERN3-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PoushikMERN3-2/index.html",
+    "main.c668521c.css.map": "/PoushikMERN3-2/static/css/main.c668521c.css.map",
+    "main.303535d1.js.map": "/PoushikMERN3-2/static/js/main.303535d1.js.map",
+    "787.cb3f2434.chunk.js.map": "/PoushikMERN3-2/static/js/787.cb3f2434.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c668521c.css",
+    "static/js/main.303535d1.js"
+  ]
+}
